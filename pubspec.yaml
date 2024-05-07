@@ -31,6 +31,12 @@ dependencies:
   flutter:
     sdk: flutter
 
+  http: ^0.13.3
+  connectivity: ^3.0.6
+  toggle_switch: ^2.3.0
+  flutter_toggle_tab: ^1.4.1
+  carousel_slider: ^4.2.1
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -52,7 +58,21 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-
+  assets:
+    - assets/images/background_image.jpg
+    - assets/images/logo.jpg
+    - assets/images/mobile_icon.jpeg
+    - assets/images/slideimage1.jpg
+    - assets/images/slideimage2.jpg
+    - assets/images/slideimage3.jpg
+    - assets/images/mobilephoneimage1.png
+    - assets/images/mobilephoneimage2.png
+    - assets/images/mobilephoneimage3.png
+    - assets/images/mobilephoneimage4.png
+    - assets/images/mobileicon.png
+    - assets/images/camera.png
+    - assets/images/laptop.png
+    - assets/images/led.png
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
