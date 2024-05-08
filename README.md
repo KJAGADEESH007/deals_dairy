@@ -1,16 +1,11 @@
-# deals_dairy
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#fluttr Mobile Application
+1)Project Overview: This application developed for only a basic assignment purpose and this mobile application is beaing developed using flutter frame work .
+                     this project consits of Splash Screen,and splash screen is navigated to login screen ,where it asks for phone no or em,ail and user can choose it when the credentials are given it directs to otp verification screen .
+If the verificatiojn is succesfull then its navuigates to the Hoe Page if the verification faild the user can register thair Account in Signup page or screen where it asks for email phone no,Password and refferal 'if available '.
+Screenshots of the application:   
+Installation: Provide instructions on how to install and set up the project locally. Include any dependencies or prerequisites required to run the application.
+Usage: Explain how to use the application once it's installed. Provide guidance on navigating through different screens and using various features.
+API Integration: If your application interacts with APIs, explain how it's integrated and provide any relevant details about the API endpoints used.
+Contributing: Encourage others to contribute to the project by providing guidelines for contributing, such as how to report issues, submit feature requests, or make code contributions.
+License: Specify the license under which your project is distributed. This informs users about the terms and conditions for using and modifying your code.
+Contact: Optionally, provide contact information or links to your social profiles for users to reach out to you with feedback or questions.
